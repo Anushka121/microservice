@@ -1,0 +1,6 @@
+org\cap\ProductApplication.class
+org\cap\service\IProductService.class
+org\cap\dao\IProductDao.class
+org\cap\service\ProductServiceImpl.class
+org\cap\dao\ProductDaoImpl.class
+org\cap\entities\Product.class
